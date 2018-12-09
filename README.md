@@ -69,7 +69,7 @@ With the positives and negatives of indexing in mind, we support the use of inde
 However, while this is the case for _our_ systems, it doesn&#39;t mean it&#39;s the best solution for _all_ systems. Keeping the additional storage space necessary to compute the indexes in mind, a question arises. Is the speed gained from the indexes worth running into issues on the storage front? Sometimes, the speed gained isn&#39;t enough to offset the cost. This is why it is always necessary to weigh cost vs gain.
 Despite this, we still stand behind our choice. We encourage the use of indexing in databases, so queries can retrieve data faster. However, remember that it is not the only, nor perfect, option. It is merely _an_ option.
 
-Glossary:
+## Glossary:
 
 1. [https://stackoverflow.com/a/172992](https://stackoverflow.com/a/172992) - Used as reference to explain how database querying works
 2. [https://stackoverflow.com/a/15243748](https://stackoverflow.com/a/15243748) used as reference to explain the basics of indexing
