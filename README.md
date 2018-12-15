@@ -82,7 +82,7 @@ Despite this, we still stand behind our choice. We encourage the use of indexing
 2. [https://stackoverflow.com/a/15243748](https://stackoverflow.com/a/15243748) used as reference to explain the basics of indexing
 3. [https://stackoverflow.com/a/43572540](https://stackoverflow.com/a/43572540) used as reference to simplify an issue with index.
 
-### Additional Sources:
+## Additional Sources:
 
 All of these were used as general inspiration for the written text, not necessarily quoted.
 
