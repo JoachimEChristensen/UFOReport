@@ -81,3 +81,13 @@ Despite this, we still stand behind our choice. We encourage the use of indexing
 1. [https://stackoverflow.com/a/172992](https://stackoverflow.com/a/172992) - Used as reference to explain how database querying works
 2. [https://stackoverflow.com/a/15243748](https://stackoverflow.com/a/15243748) used as reference to explain the basics of indexing
 3. [https://stackoverflow.com/a/43572540](https://stackoverflow.com/a/43572540) used as reference to simplify an issue with index.
+
+### Additional Sources:
+
+All of these were used as general inspiration for the written text, not necessarily quoted.
+
+https://www.geeksforgeeks.org/indexing-in-databases-set-1/
+
+https://www.essentialsql.com/what-is-a-database-index/
+
+https://www.itprotoday.com/microsoft-sql-server/indexing-sort-performance
