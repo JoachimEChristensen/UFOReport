@@ -1,5 +1,5 @@
-# Databases and Indexing
-
+# Indexing: Improving the read speed of your Database
+Written by: Jocahim E. Christensen, Xinkai H. and Christian Nielsen
 ## Abstract
 **Databases gets slower with more requests.**
 
